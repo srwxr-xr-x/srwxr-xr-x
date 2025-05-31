@@ -35,3 +35,5 @@
 </div>
 
 ![](https://raw.githubusercontent.com/srwxr-xr-x/MinimaOS/trunk/Images/Main.png)
+
+![](https://komarev.com/ghpvc/?username=srwxr-xr-x)
